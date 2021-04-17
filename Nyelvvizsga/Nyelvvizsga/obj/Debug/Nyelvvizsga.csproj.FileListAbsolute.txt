@@ -1,0 +1,9 @@
+C:\Users\lalle\source\repos\Nyelvvizsga\Nyelvvizsga\bin\Debug\sikeres.csv
+C:\Users\lalle\source\repos\Nyelvvizsga\Nyelvvizsga\bin\Debug\sikertelen.csv
+C:\Users\lalle\source\repos\Nyelvvizsga\Nyelvvizsga\bin\Debug\Nyelvvizsga.exe.config
+C:\Users\lalle\source\repos\Nyelvvizsga\Nyelvvizsga\bin\Debug\Nyelvvizsga.exe
+C:\Users\lalle\source\repos\Nyelvvizsga\Nyelvvizsga\bin\Debug\Nyelvvizsga.pdb
+C:\Users\lalle\source\repos\Nyelvvizsga\Nyelvvizsga\obj\Debug\Nyelvvizsga.csprojAssemblyReference.cache
+C:\Users\lalle\source\repos\Nyelvvizsga\Nyelvvizsga\obj\Debug\Nyelvvizsga.csproj.CoreCompileInputs.cache
+C:\Users\lalle\source\repos\Nyelvvizsga\Nyelvvizsga\obj\Debug\Nyelvvizsga.exe
+C:\Users\lalle\source\repos\Nyelvvizsga\Nyelvvizsga\obj\Debug\Nyelvvizsga.pdb
